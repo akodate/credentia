@@ -6,7 +6,7 @@
     "narrative": "## This badge is earned through completing the Labors of Hercules"
   },
   "@context": "https://w3id.org/openbadges/v2",
-  "issuer": "https://github.com/akodate/credentia/blob/master/issuer.json",
+  "issuer": "https://raw.githubusercontent.com/akodate/credentia/master/issuer.json",
   "type": "BadgeClass",
   "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/badgr-badgeclass.json",
   "alignment": [],
