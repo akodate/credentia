@@ -2,7 +2,7 @@
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
   "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/badgr-assertion.json",
-  "badge": "https://api.badgr.io/public/badges/W2n0xL0zSyaZIhKIF1SNQQ",
+  "badge": "https://raw.githubusercontent.com/akodate/credentia/master/testing/badgr-badgeclass.json",
   "image": "https://api.badgr.io/public/assertions/FZp4c_6EQDOHtCP3tF87cw/image",
   "verification": { "type": "HostedBadge" },
   "issuedOn": "2019-06-28T00:44:01.119405+00:00",

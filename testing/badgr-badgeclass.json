@@ -1,0 +1,14 @@
+{
+  "description": "A sample Open Badge issued manually through Badgr",
+  "tags": [],
+  "image": "https://api.badgr.io/public/badges/W2n0xL0zSyaZIhKIF1SNQQ/image",
+  "criteria": {
+    "narrative": "## This badge is earned through completing the Labors of Hercules"
+  },
+  "@context": "https://w3id.org/openbadges/v2",
+  "issuer": "https://github.com/akodate/credentia/blob/master/issuer.json",
+  "type": "BadgeClass",
+  "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/badgr-badgeclass.json",
+  "alignment": [],
+  "name": "Sample Badgr Badge"
+}
