@@ -11,39 +11,5 @@
     "type": "email",
     "identity": "aryaxyz@starkxyz.com",
     "hashed": false
-  },
-  "recipientProfile": {
-    "type": [
-      "RecipientProfile",
-      "Extension"
-    ],
-    "publicKey": "ecdsa-koblitz-pubkey:mtr98kany9G1XYNU74pRnfBQmaCg2FZLmc",
-    "name": "Arya Stark"
-  },
-  "verification": {
-    "type": [
-      "MerkleProofVerification2017",
-      "Extension"
-    ],
-    "publicKey": "ecdsa-koblitz-pubkey:msBCHdwaQ7N2ypBYupkp6uNxtr9Pg76imj"
-  },
-  "signature": {
-    "type": [
-      "MerkleProof2017",
-      "Extension"
-    ],
-    "proof": [
-      {
-        "right": "62a1e26974f20cd38f1349a2c0975c98e3b7dbb821b7568f6790aae10c20032d"
-      }
-    ],
-    "targetHash": "7d5ee19584a27a9bf7d558e0128a27e18f8d11ace3c99cd72423c9db6cbc50d7",
-    "merkleRoot": "7570ad1a939b1d733668125df3e71ebbd593358e7d851eff3fdebd487462daab",
-    "anchors": [
-      {
-        "type": "BTCOpReturn",
-        "sourceId": "3608e5e893a4edb8634e79b43ceae4bd30153b80a7e91e3b9d65b1bd16485433"
-      }
-    ]
   }
 }
