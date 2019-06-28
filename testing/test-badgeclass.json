@@ -5,6 +5,8 @@
   "issuer": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-issuer2.json?",
   "type": "BadgeClass",
   "name": "This is the certificate title",
+  "alignment": [],
+  "tags": [],
   "criteria": {
     "narrative": "Recipient must do work that makes them worthy of this badge"
   },
