@@ -1,0 +1,10 @@
+{
+  "name": "Credentia Blockchain Technologies", 
+  "url": "https://credentia.io", 
+  "image": "https://api.badgr.io/public/issuers/7dd73jmTTzOklIK3t6wSNg/image", 
+  "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/badgr-issuer.json", 
+  "@context": "https://w3id.org/openbadges/v2", 
+  "type": "Issuer", 
+  "email": "alex@credentia.io", 
+  "description": "Credentia Blockchain Technologies' issuing account, created with Badgr"
+}
