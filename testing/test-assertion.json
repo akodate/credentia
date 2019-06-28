@@ -3,13 +3,14 @@
     "https://w3id.org/openbadges/v2",
     "https://w3id.org/blockcerts/schema/2.0/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-assertion.json",
+  "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-badgeclass.json?",
   "type": "Assertion",
   "issuedOn": "2016-12-31T23:59:59Z",
-  "badge": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-badgeclass.json",
+  "badge": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-badgeclass.json?",
   "recipient": {
     "type": "email",
     "identity": "aryaxyz@starkxyz.com",
     "hashed": false
-  }
+  },
+  "verification": { "type": "HostedBadge" }
 }
