@@ -10,5 +10,10 @@
     "identity": "alex@credentia.io",
     "hashed": false
   },
-  "verification": { "type": "HostedBadge" }
+  "verification": { "type": "HostedBadge" },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": ["Extension", "extensions:RecipientProfile"],
+    "name": "Alex K"
+  }  
 }
