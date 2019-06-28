@@ -3,6 +3,7 @@
   "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-assertion.json?",
   "type": "Assertion",
   "issuedOn": "2016-12-31T23:59:59Z",
+  "image": "https://api.badgr.io/public/assertions/FZp4c_6EQDOHtCP3tF87cw/image",
   "badge": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-badgeclass.json?",
   "recipient": {
     "type": "email",
