@@ -1,0 +1,20 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/badgr-assertion.json",
+  "badge": "https://api.badgr.io/public/badges/W2n0xL0zSyaZIhKIF1SNQQ",
+  "image": "https://api.badgr.io/public/assertions/FZp4c_6EQDOHtCP3tF87cw/image",
+  "verification": { "type": "HostedBadge" },
+  "issuedOn": "2019-06-28T00:44:01.119405+00:00",
+  "recipient": {
+    "salt": "79d444e4ef0044b087a89ad3bce1544b",
+    "type": "email",
+    "hashed": true,
+    "identity": "sha256$3473bb45d129f220798a3010ed054ca6c3712a87edb082b16286f48ed7611af3"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": ["Extension", "extensions:RecipientProfile"],
+    "name": "Alex K"
+  }
+}
