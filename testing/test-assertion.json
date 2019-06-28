@@ -1,5 +1,8 @@
 {
-  "@context": "https://w3id.org/openbadges/v2",
+  "@context": [
+    "https://w3id.org/openbadges/v2",
+    { "score": { "@id": "schema:description" } }
+  ],
   "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-assertion.json?",
   "type": "Assertion",
   "issuedOn": "2016-12-31T23:59:59Z",
@@ -15,5 +18,6 @@
     "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
     "type": ["Extension", "extensions:RecipientProfile"],
     "name": "Alex K"
-  }  
+  },
+  "score": "42 / 50"
 }
