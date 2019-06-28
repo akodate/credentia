@@ -1,12 +1,10 @@
 {
+  "@context": "https://w3id.org/openbadges/v2",
   "email": "alex@credentia.io",
   "revocationList": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-revocation-list.json?",
   "name": "Credentia",
   "image": "https://api.badgr.io/public/assertions/FZp4c_6EQDOHtCP3tF87cw/image",
   "id": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-issuer2.json?",
-  "@context": [
-    "https://w3id.org/openbadges/v2"
-  ],
   "url": "https://credentia.io",
   "type": "Profile"
 }
