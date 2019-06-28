@@ -8,5 +8,7 @@
   "criteria": {
     "narrative": "Recipient must do work that makes them worthy of this badge"
   },
-  "description": "This is the display description of the certificate."
+  "description": "This is the display description of the certificate.",
+  "tags": [],
+  "alignment": []  
 }
