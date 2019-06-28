@@ -9,7 +9,7 @@
   "badge": "https://raw.githubusercontent.com/akodate/credentia/master/testing/test-badgeclass.json?",
   "recipient": {
     "type": "email",
-    "identity": "aryaxyz@starkxyz.com",
+    "identity": "alex@credentia.io",
     "hashed": false
   },
   "verification": { "type": "HostedBadge" }
